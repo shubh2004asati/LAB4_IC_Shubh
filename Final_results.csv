@@ -1,0 +1,4 @@
+,top_alubit,top_master_slave,top_moore,top_ripplebit,barrel_shifter,ripple_adder,adder_1bit,logic_gate,binary_multiplier,universal_register
+Power,11.055,0.639,0.529,0.122,1.388,0.122,1.035,0.122,13.729,1.903
+Delay,13.83,4.767,4.813,6.276,5.937,11.673,4.383,,,
+LUTs,131.0,1.0,5.0,0.0,3.0,0.0,1.0,0.0,69.0,9.0
